@@ -1,2 +1,9 @@
 # scatter-chart-app
-Scattered chart with ng2-charts, chart.js
+
+## Tech stack
+
+- angular 8
+- ng2-charts
+- chart.js
+
+
